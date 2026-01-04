@@ -30,7 +30,7 @@
 ###
 
 <p align="left"># Olá, eu sou o [Seu Nome]! 👋<br><br>Sou um desenvolvedor **Front-end Junior** apaixonado por transformar designs em interfaces funcionais e acessíveis. Atualmente, estou expandindo meus horizontes para o **Backend**, focando em **Python** para me tornar um desenvolvedor Fullstack.<br><br>
-### 🛠 No que eu trabalho:<br>* **Front-end:** HTML5, CSS3, JavaScript (ES6+) e [Seu Framework: ex: React/Vue].<br>* **Backend (Em aprendizado):** Python, focado em [Django ou Flask] e integração de APIs.<br>* **Ferramentas:** Git, GitHub, Figma e VS Code.<br><br>
+### 🛠 No que eu trabalho:<br>* **Front-end:** HTML5, CSS3, JavaScript (ES6+) e React.<br>* **Backend (Em aprendizado):** Python, focado em [Django ou Flask] e integração de APIs.<br>* **Ferramentas:** Git, GitHub, Figma.<br><br>
 ### 🚀 Objetivos atuais:<br>- 🐍 Dominar a lógica de backend com Python.<br>- ⚙️ Criar APIs robustas para alimentar meus projetos front-end.<br>- 🎨 Aprimorar técnicas de Clean Code e performance no Front.</p>
 
 ###
