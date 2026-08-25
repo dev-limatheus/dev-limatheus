@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus de Souza Lima 👋
+# Olá, eu sou o Matheus Lima 👋
 
 🚀 **Estudante de Sistemas de Informação (UniFOA)** | Em transição para Desenvolvimento Web / Front-End
 
